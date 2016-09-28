@@ -4,3 +4,5 @@ Add change 1
 Add change 2
 Add change 3
 Create new branch is quick & simple.
+
+branch management.
