@@ -6,3 +6,5 @@ Add change 3
 Create new branch is quick & simple.
 
 branch management.
+
+fix for issue-101
