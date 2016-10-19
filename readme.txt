@@ -1,3 +1,4 @@
+New line 1.
 New line.
 Git is a version control system.
 Git is a free software.
