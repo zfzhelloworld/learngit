@@ -2,7 +2,6 @@ New line 3.
 New line.
 Git is a version control system.
 Git is a free software.
-Add change 1
 Add change 2
 
 branch management.
